@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: LOL
+owner: otrofelipe
+package: .
